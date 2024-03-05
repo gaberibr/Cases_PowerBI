@@ -2,9 +2,9 @@
 Respeitando a lei LGDP (Lei Geral de Proteção de Dados), os dados trabalhado, tem a finalidade para EDA (Exploratory Data Analysis), sendo assim, de maneira ética e preservando a privacidade. 
 
 Entretanto, além de gerar insights e resolução, então assim desenvolver meu **know-how**:<br>
-Habilidades técnicas (**Thecnical Skills**): Python, Excel, SQL, Power BI; <br>
-Habilidades análiticas (**Analytical Skills**): Estatística, Matemática, Pensamento crítico, flexibilidade cognitiva, Resolução de problemas complexos; <br>
-Conhecimentos (**Domain Knowledge**): Econometria, Finanças, Storytelling <br>
+Habilidades técnicas (**Thecnical Skills**): Python, Excel, SQL, Power BI. <br>
+Habilidades análiticas (**Analytical Skills**): Estatística, Matemática, Pensamento crítico, flexibilidade cognitiva, Resolução de problemas complexos. <br>
+Conhecimentos (**Domain Knowledge**): Econometria, Finanças, Storytelling. <br>
 Habilidades interpessoais (**Soft Skills**): Comunicação efetiva, Trabalho em grupo, Criatividade, Ética de trabalho.
 
 <a href="https://www.kaggle.com/datasets/spscientist/students-performance-in-exams">Students Performance in Exams</a>
