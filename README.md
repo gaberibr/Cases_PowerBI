@@ -12,7 +12,7 @@ Habilidades interpessoais (**Soft Skills**): Comunicação efetiva, Trabalho em 
 <a href="https://www.kaggle.com/datasets/ramjasmaurya/unicorn-startups">Unicorn Startups</a>
 
 ## 🗂️ Cases
-### 📄 1 - Projeto  [Name](link)
+### 📄 1 - Projeto  [Vendas conectado com SQL Server](https://www.youtube.com/watch?v=i1XuOvKapFc)
 > _Description_
 
 images
@@ -27,7 +27,7 @@ Results
 
 <hr>
 
-### 📄 2 - Projeto [Name](link)
+### 📄 2 - Projeto [Simulador Financeiro](https://www.youtube.com/watch?v=kU8_mNfc_yY)
 > _Description_
 
 images
@@ -42,7 +42,7 @@ Results
 
 <hr>
 
-### 📄 3 - Projeto  [Name](link)
+### 📄 3 - Projeto  [Suporte de TI (SAC)](https://www.youtube.com/watch?v=R5dge3i55tM)
 > _Description_
 
 images
