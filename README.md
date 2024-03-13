@@ -7,10 +7,6 @@ Habilidades análiticas (**Analytical Skills**): Estatística, Matemática, Pens
 Conhecimentos (**Domain Knowledge**): Econometria, Finanças, Storytelling. <br>
 Habilidades interpessoais (**Soft Skills**): Comunicação efetiva, Trabalho em grupo, Criatividade, Ética de trabalho.
 
-<a href="https://www.kaggle.com/datasets/spscientist/students-performance-in-exams">Students Performance in Exams</a>
-<br>
-<a href="https://www.kaggle.com/datasets/ramjasmaurya/unicorn-startups">Unicorn Startups</a>
-
 ## 🗂️ Cases
 <details>
 <summary> 5 Cases elaborados com orientação da Xperiun</summary>
